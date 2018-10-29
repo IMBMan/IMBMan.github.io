@@ -10,5 +10,4 @@ published: true
 > Моё лицо, когда __оно заработало__
 ![me.jpg]({{site.baseurl}}/_posts/me.jpg)
 
-### Классно получилось :D теперь _скинем_ ссылку на моё веб - приложение, где можно скачать winform - приложение [SportsPage](http://sportspage.azurewebsites.net/), который пока работает... и описан здесь - [ТыК](https://imbman.github.io/2018-10-26-SportsPage.html) , ивезде где только возможно было это описать :)
-
+## Классно получилось :D теперь _скинем_ ссылку на моё веб - приложение, где можно скачать winform - приложение [SportsPage](http://sportspage.azurewebsites.net/), который пока работает... и описан здесь - [ТыК](https://imbman.github.io/2018-10-26-SportsPage.html) , ну везде где только возможно было это описать :)
