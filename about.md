@@ -5,10 +5,10 @@ permalink: /about/
 published: true
 ---
 
-Оставлю ссылки на [jekyllrb.com](https://jekyllrb.com/)
+Вы можете найти меня в:
+###[Социальной сети vk](https://vk.com/ilin_31)
+###[HeadHunter](https://belgorod.hh.ru/resume/2f3faaeeff037c542f0039ed1f5a567a4a6654)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-Больше информации в иходнике этой страницы нет - ищи не здесь и исправь краш
+
+
 
